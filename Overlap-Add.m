@@ -1,4 +1,4 @@
-function answ=shambharkar_2020_ovadd(x,h,L)
+function answ=ovadd(x,h,L)
     lx=length(x);
     M=length(h);
     N=M+L-1;
